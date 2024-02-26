@@ -1,0 +1,48 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.json
+*.lock.json
+*.userprefs
+*.sqlite
+*.suo
+*.cache
+*.vscode
+*.vs
+
+# Visual Studio files
+.vs/
+/.vscode/
+*.sln.docstates
+/.suo
+/.user
+/.ntvs_analysis.dat
+/.vscode
+
+# Rider files
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+*.paket.restore.log
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
